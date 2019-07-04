@@ -22,8 +22,6 @@
 #define LOG_INTERVAL 60  // seconds
 
 //WIFI Setting
-//const char* WIFI_SSID = "jds-44219";
-//const char* WIFI_PWD = "ijmp-3zid-cti7-efim";
 const char* WIFI_SSID = "WPI-Open";
 const char* WIFI_PWD = "";
 //const char* WIFI_SSID = "Liberty Farm Retreat";
